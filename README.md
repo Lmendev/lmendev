@@ -2,7 +2,8 @@
 
 I'm a **Systems Engineer** based in Sweden now. I'm a coding passionate focused on **web technologies**. Interested in design, tech and **OpenSource**.
 
-Aside from coding I enjoy writing technical things [at my blog](https://) ✍️
+
+<!-- Aside from coding I enjoy writing technical things [at my blog](https://) ✍️ -->
 
 <!--
 <p>
