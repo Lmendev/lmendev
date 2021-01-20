@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi! I'm Luis 👋
+
+I'm a **Systems Engineer** based in Sweden now. I'm a coding passionate focused on **web technologies**. Interested in design, tech and **OpenSource**.
+
+Aside from coding I enjoy writing technical things [at my blog](https://) ✍️
 
 <!--
-**lmendoza92/lmendoza92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p>
+  <a href="https://twitter.com/intent/follow?screen_name=lmendoza92">
+    <img src="" width="144" alt="Follow @lmendoza92 on Twitter" title="Follow @lmendoza92 on Twitter">
+  </a>
+</p>
 -->
