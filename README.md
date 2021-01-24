@@ -1,6 +1,6 @@
 ### Hi! I'm Luis 👋
 
-I'm a **Systems Engineer** based in Sweden. I'm a coding passionate focused on **web technologies**. Interested in design, tech and **OpenSource**.
+I'm a **Systems Engineer** 👨🏽‍💻 based in Sweden. I'm a coding passionate focused on **web technologies**. Interested in design, tech and **OpenSource**.
 
 
 <!-- Aside from coding I enjoy writing technical things [at my blog](https://) ✍️ -->
