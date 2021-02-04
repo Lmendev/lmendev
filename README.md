@@ -2,7 +2,7 @@
 
 I'm a **Systems Engineer** based in Sweden 👨🏽‍💻. I'm a coding passionate focused on **web technologies**. Interested in design, tech and **OpenSource**.
 
-<img style='float: left; width:40%' src='https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' alt='developer gif'>
+<img style='float: right; width:40%' src='https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' alt='developer gif'>
 
 **About me:**
 
