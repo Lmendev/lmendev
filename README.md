@@ -2,12 +2,12 @@
 
 I'm a **Systems Engineer** based in Sweden 👨🏽‍💻. I'm a coding passionate focused on **web technologies**. Interested in design, tech and **OpenSource**.
 
-<img src='https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' alt='developer gif'>
+<img style='float: left; width:40%' src='https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' alt='developer gif'>
 
 **About me:**
 
 * 🤔 Now, I am learning about react and TypeScript
-* ✍🏼 I'm writing about <a href='http://procesadormipslogisim.blogspot.com/'>simulating a MPIS processor</a> on my blog, check it out!
+* ✍🏼 I'm writing about <a href='http://procesadormipslogisim.blogspot.com/'>simulating a MIPS processor</a> on my blog, check it out!
 * 🎹 Aside from coding I enjoy play piano sometimes!
 * ✉️ Send me an email, asking for help or just to say hi! 🙋🏽‍♂️
 
