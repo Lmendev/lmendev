@@ -13,6 +13,6 @@ I'm a **Systems Engineer** based in Sweden 👨🏽‍💻. I'm a coding passion
 
 **Social**
 
-<a href="https://twitter.com/intent/follow?screen_name=Lmendev">
+<a href="https://twitter.com/intent/follow?screen_name=Lmendev" target="_blank">
   <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @Lmendev on Twitter" title="Follow @lmendoza92 on Twitter">
 </a>
