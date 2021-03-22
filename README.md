@@ -1,6 +1,6 @@
 ### Hi! I'm Luis 👋
 
-**Systems Engineer** 👨🏽‍💻 and a coding passionate focused on **web technologies**. Interested in design, tech and **OpenSource**.
+**Systems Engineer** 👨🏽‍💻 coding passionate focused on **web technologies**. Interested in design, tech and **OpenSource**.
 
 <img align='right' width='40%' src='https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' alt='developer gif'>
 
