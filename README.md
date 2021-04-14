@@ -11,6 +11,9 @@
 * 🎹 Aside from coding I enjoy play piano sometimes!
 * ✉️ Send me an email, asking for help or just to say hi! 🙋🏽‍♂️
 
+![Lmendev's GitHub stats](https://github-readme-stats.vercel.app/api?username=lmendev&hide=stars&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmendev&layout=compact&theme=tokyonight&langs_count=6)
+
 **Social**
 
 <a href="https://twitter.com/intent/follow?screen_name=Lmendev" target="_blank">
