@@ -2,7 +2,7 @@
 
 **Systems Engineer** 👨🏽‍💻 coding passionate focused on **web technologies**. Interested in design, tech and **OpenSource**.
 
-![Codewars Badge](https://www.codewars.com/users/lmendev/badges/micro)
+[![Codewars Badge](https://www.codewars.com/users/lmendev/badges/micro)](https://www.codewars.com/users/lmendev)
 
 ## About me
 
