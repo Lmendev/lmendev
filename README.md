@@ -8,7 +8,7 @@
 
 <img align='right' width='30%' src='https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' alt='developer gif'>
 
-* 🤔 Now, I am learning about react and TypeScript
+* 🌱 Now, I am learning about react and TypeScript
 * ✍🏼 I'm writing about <a href='http://procesadormipslogisim.blogspot.com/'>simulating a MIPS processor</a> on my blog, check it out!
 * 🎹 Aside from coding I enjoy play piano sometimes!
 * ✉️ Send me an email, asking for help or just to say hi! 🙋🏽‍♂️
