@@ -11,7 +11,7 @@
 * 🌱 Now, I am learning about react and TypeScript
 * ✍🏼 I'm writing about <a href='http://procesadormipslogisim.blogspot.com/'>simulating a MIPS processor</a> on my blog, check it out!
 * 🎹 Aside from coding I enjoy play piano sometimes!
-* ✉️ Send me an email, asking for help or just to say hi! 🙋🏽‍♂️
+* ✉️ <a href="mailto:lmendoza.mg@gmail.com">Send me an email</a>, asking for help or just to say hi! 🙋🏽‍♂️
 
 ## Stats
 
