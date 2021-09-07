@@ -10,7 +10,7 @@
 
 * 🌱 Now, I am learning about react and TypeScript
 * ✍🏼 I'm writing about <a href='http://procesadormipslogisim.blogspot.com/'>simulating a MIPS processor</a> on my blog, check it out!
-* 🎹 Aside from coding I enjoy play piano sometimes!
+* 🎹 Aside from coding I enjoy play piano
 * ✉️ <a href="mailto:lmendoza.mg@gmail.com?subject=I%20came%20across%20your%20GitHub%20profile!">Send me an email</a>, asking for help or just to say hi! 🙋🏽‍♂️
 
 ## Stats
