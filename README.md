@@ -1,6 +1,6 @@
 # Hi! I'm Luis 👋
 
-**Systems Engineer** 👨🏽‍💻 coding passionate focused on **web technologies**. Interested in design, tech and **OpenSource**.
+**Systems Engineer** 👨🏽‍💻 passionate about coding. Focused on **web technologies**. Interested in design, tech and **OpenSource**.
 
 [![Codewars Badge](https://www.codewars.com/users/lmendev/badges/micro)](https://www.codewars.com/users/lmendev)
 
