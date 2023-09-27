@@ -32,6 +32,6 @@
 
 ## Social
 
-<a href="https://twitter.com/intent/follow?screen_name=Lmendev" target="_blank">
-  <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @Lmendev on Twitter" title="Follow @lmendev on Twitter">
+<a href="https://x.com/intent/follow?screen_name=Lmendev" target="_blank">
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/2933342/271013656-c46ebf8e-55bb-4ac6-a90d-2397aa087983.png" width="144" alt="Follow @Lmendev on X" title="Follow @lmendev on X">
 </a>
