@@ -12,7 +12,7 @@
 
 <img align='right' width='30%' src='assets/developer.gif' alt='developer gif' />
 
-* 🌱 Currently building with Rails and maintaining open source
+* 🛠️ Currently building with Rails and maintaining open source
 * ✍🏼 I'm writing about <a href='https://procesadormipslogisim.blogspot.com'>simulating a MIPS processor</a> on my blog, check it out!
 * 🎹 Aside from coding I enjoy playing piano
 * 🥋 Practicing katas on Codewars <a href="https://www.codewars.com/users/lmendev"><img src="https://www.codewars.com/users/lmendev/badges/micro" alt="Codewars Badge" align="center" /></a>
