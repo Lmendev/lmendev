@@ -12,7 +12,7 @@
 
 <img align='right' width='30%' src='assets/developer.gif' alt='developer gif' />
 
-* 🌱 Right now I'm building projects with Ruby on Rails and maintaining my open source repos, like [rollercoin-calculator](https://github.com/Lmendev/rollercoin-calculator)
+* 🌱 Currently building with Rails and maintaining open source
 * ✍🏼 I'm writing about <a href='https://procesadormipslogisim.blogspot.com'>simulating a MIPS processor</a> on my blog, check it out!
 * 🎹 Aside from coding I enjoy playing piano
 * 🥋 Practicing katas on Codewars <a href="https://www.codewars.com/users/lmendev"><img src="https://www.codewars.com/users/lmendev/badges/micro" alt="Codewars Badge" align="center" /></a>
