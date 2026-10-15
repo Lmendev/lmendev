@@ -1,34 +1,29 @@
 # Hi! I'm Luis 👋
 
 **Systems Engineer** 👨🏽‍💻 passionate about coding focused on **web technologies**. Interested in design, tech and **OpenSource**.
+I love when strangers turn into collaborators.
 
 [![Codewars Badge](https://www.codewars.com/users/lmendev/badges/micro)](https://www.codewars.com/users/lmendev)
 
 ## About me
 
-<img align='right' width='30%' src='https://media3.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif' alt='developer gif' />
+<img align='right' width='30%' src='assets/developer.gif' alt='developer gif' />
 
-* 🌱 Now, I am learning about react and TypeScript
-* ✍🏼 I'm writing about <a href='http://procesadormipslogisim.blogspot.com/'>simulating a MIPS processor</a> on my blog, check it out!
-* 🎹 Aside from coding I enjoy play piano
+* 🌱 Right now I'm building projects with Ruby on Rails and maintaining my open source repos
+* ✍🏼 I'm writing about <a href='https://procesadormipslogisim.blogspot.com'>simulating a MIPS processor</a> on my blog, check it out!
+* 🎹 Aside from coding I enjoy playing piano
 * ✉️ <a href="mailto:lmendoza.mg@gmail.com?subject=I%20came%20across%20your%20GitHub%20profile!">Send me an email</a>, asking for help or just to say hi! 🙋🏽‍♂️
 
-## Last learned commands
+## Let's build together
 
-| Command | Description |
-|-|-|
-| `cal` | Displays current month's calendar with current day highlighted |
-| `uptime` | Show uptime |
-| `unalias` | Remove an alias from the already defined aliases |
-| `cd -` | Return to the previous directory |
-| `history` | Shows a list of previous commands |
+These projects welcome first-time contributors:
 
-## Useful aliases
-
-| Alias | Command | Description |
+| Project | What it is | How you can help |
 |-|-|-|
-| [dcupd](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/docker-compose) | `docker-compose up -d` | Build, (re)create, start, and attach to containers for a service as daemon |
-| [gswm](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/git) | `git switch $(git_main_branch)` | Switch to *git_main_branch* (usually main or master) |
+| [🧮 rollercoin-calculator](https://github.com/Lmendev/rollercoin-calculator) | The most accurate and complete Rollercoin calculator | [Good first issues](https://github.com/Lmendev/rollercoin-calculator/labels/good%20first%20issue) |
+| [🤖 patlabor-api](https://github.com/Lmendev/patlabor-api) | API about Mobile Police Patlabor | Add characters and labors |
+
+New to open source? Open an issue and I'll help you with your first PR 🚀
 
 ## Social
 
